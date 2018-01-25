@@ -25,7 +25,6 @@ ul.nav li{
 	vertical-align: bottom;
 	margin:5px 5px 0 0;
 	font-size: 13px;
-	font-family: FontAwesome;
 }
 div.fa{
 	font-size: 20px;
@@ -99,6 +98,7 @@ div.buttons button:hover{
 	box-shadow: 0 1px 1px rgba (0,0,0,0.1);
 	color: #333333
 }
+
 /*bottom section*/
 
 div.bottom{
